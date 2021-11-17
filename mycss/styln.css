@@ -1,0 +1,155 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+.pp{
+  font-size: 2rem;
+  margin-top: 10px;
+  color: #66BFBF;
+}
+
+.intro{
+  width: 50%;
+  margin: auto;
+}
+
+.cont{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+h1{
+  font-family: 'Sacramento', cursive;
+  font-size: 5.9rem;
+  font-weight: bold;
+  margin: 8px;
+  color: #66BFBF;
+  line-height: 1.5;
+}
+
+p{
+  font-family: 'Montserrat', cursive;
+  font-size: 1rem;
+  line-height: 2;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align:left;
+  line-height: 2
+}
+
+h2{
+  font-family: 'Dancing Script', cursive;
+  font-size: 3rem;
+  font-weight: normal;
+  color: #66BFBF;
+}
+
+h3{
+  font-family: 'Dancing Script', cursive;
+  font-size: 1.5rem;
+  color: #11999E;
+}
+
+.me {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 180px;
+}
+.middle-container{
+  margin: 90px 0;
+}
+/*
+.end {
+
+} -->
+*/
+.moun {
+  width: 550px;
+  height: 500px;
+  margin-top: 5px;
+}
+
+.profile{
+  text-align: center;
+  line-height: 2;
+}
+
+.top {
+position: absolute;
+right: 350px;
+top: 80px;
+}
+
+.boot {
+position: absolute;
+left: 280px;
+bottom: 410px;
+}
+
+.btn{
+  background: #11cdd4;
+  color: #ffffff;
+  font-family: 'Montserrat', cursive;
+  text-decoration: none;
+  font-size: 25px;
+  border-radius: 13px;
+  padding: 10px 20px 10px 20px;
+}
+
+.btn:hover{
+  background-color: #30e3cb;
+}
+
+.contact-img{
+  height: 200px;
+  width: 200px;
+}
+
+.skill-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.project-img{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.footer-link{
+  color: #008b8b;
+  margin: 10px 20px;
+  text-decoration: none;
+  font-family: 'Montserrat', cursive;
+}
+
+.footer-link:hover{
+  color:#EAF6F6;
+  text-decoration:underline;
+}
+
+.copyright{
+  font-size: 0.75em;
+  color: #EAF6F6;
+  padding: 20px 0;
+  width: 30%;
+  margin: auto;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
